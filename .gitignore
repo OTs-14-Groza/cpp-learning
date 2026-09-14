@@ -1,4 +1,4 @@
-# Prerequisites
+ # Prerequisites
 *.d
 
 # Compiled Object files
@@ -67,3 +67,11 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+**/.vs/
+# Visual Studio
+**/x64/
+**/Debug/
+**/Release/
+*.user
+*.tlog
+*.idb
